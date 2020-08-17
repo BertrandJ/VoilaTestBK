@@ -12,5 +12,5 @@ dependencies:
   - bokeh
   - dask
   - voila
-  - interactive
+  - interact
   - plotly_express
