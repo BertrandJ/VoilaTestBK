@@ -11,3 +11,6 @@ dependencies:
   - partd
   - bokeh
   - dask
+  - voila
+  - interactive
+  - plotly_express
